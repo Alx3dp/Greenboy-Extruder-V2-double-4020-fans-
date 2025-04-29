@@ -17,6 +17,8 @@ It is more compact than the original printhead
 <br>
 A dedicated mount for a multitude of z probes (still a wip)
 <br>
+There are also 2 versions, one with the pellet hose on the left and one with it on the right
+<br>
 <br>
 Do keep in mind that this is still a wip. there can be issues, I can make mistakes and my designs are not perfect. If you find an issue or have any Ideas on how to improve this design please message me on discord @alx1234
 <br>
