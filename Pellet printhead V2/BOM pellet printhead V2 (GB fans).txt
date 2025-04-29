@@ -1,0 +1,27 @@
+The screw set included with the Greenboy pellet Extruder contains the 2 m3x25 screws that are needed,
+as well as the 12 m3x10 screws. 
+
+So you need to source the rest of the screws yourself
+
+Fans: 			2x m3x20			#for hotend cooling fan
+			2x m3x25			#for part cooling fan
+
+Motor mount:		4x m3x5x4 heat set insert	#located on top of the main body
+			4x m3x6				#to secure the motor to the motor plate
+			4x m3x6 to m3x10		#to secure the motor plate to the main body
+
+Mounting plate:		4x m3x5x4 heat set insert	#for all Version, located on the side of the main body
+			4x m3x6 to m3x10  		#for all Version
+			4x m3x6				#for xol carriage
+			2x m3x6 to m3x10		#for Ender 3
+
+hotend cooling duct:	4x m3x6 to m3x10		#to secure the fixture to the main Body
+			
+Endstop fixture:	4x m3x16 			#for cartographer probe
+			2x m3x6				#for cartographer probe
+			4x m3x10 to m3x12 		#for no probe
+
+Part cooling duct:	2x m3x6 to m3x10		#to secure the fixture to the main Body,
+			2x m3x6 to m3x10		#to secure the duct to the fixture
+
+Extruder Barrel:	4 m4x8 to m4x12			#to secure the extruder barrel to the main body
