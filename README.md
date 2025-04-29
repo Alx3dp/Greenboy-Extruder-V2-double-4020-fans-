@@ -27,3 +27,6 @@ You will need additional parts to the GB kit, consult the BOM to see what exactl
 As the motor is by far the heaviest part of the printhead, the COM is located relatively high up. The closer the COM is to the x axis the better it is.
 <br>
 As a consequence of that the printhead has been moved down compared to the original, meaning you will lose a few centimeters of z travel.
+<br>
+<br>
+The Fans I use as reference are a different model as the ones included with the GB kit, so they do not lign up with the fixtures in the .step files.
