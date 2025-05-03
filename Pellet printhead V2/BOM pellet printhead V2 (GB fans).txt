@@ -1,9 +1,9 @@
-The screw set included with the Greenboy pellet Extruder contains the 2 m3x25 screws that are needed,
-as well as the 12 m3x10 screws. 
+The screw set included with the Greenboy pellet Extruder contains the 2 m3x25 and m3x18 screws that are needed for the fans,
+as well as 12 m3x10 screws. 
 
 So you need to source the rest of the screws yourself
 
-Fans: 			2x m3x20			#for hotend cooling fan
+Fans: 			2x m3x18			#for hotend cooling fan
 			2x m3x25			#for part cooling fan
 
 Motor mount:		4x m3x5x4 heat set insert	#located on top of the main body
@@ -14,6 +14,7 @@ Mounting plate:		4x m3x5x4 heat set insert	#for all Version, located on the side
 			4x m3x6 to m3x10  		#for all Version
 			4x m3x6				#for xol carriage
 			2x m3x6 to m3x10		#for Ender 3
+			2x m3x5 to m3x12		#for Neptune 3, the original Filament printhead uses 2 m3x8 for this 
 
 hotend cooling duct:	4x m3x6 to m3x10		#to secure the fixture to the main Body
 			
