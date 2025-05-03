@@ -30,3 +30,9 @@ As a consequence of that the printhead has been moved down compared to the origi
 <br>
 <br>
 The Fans I use as reference are a different model as the ones included with the GB kit, so they do not lign up with the fixtures in the .step files.
+<br>
+<br>
+You need to ause support when printing these parts, I would recommend just using your standard tree support.
+<br>
+<br>
+The main body of the printhead is in direct contact with the extruder barrel, so pla is most likely not sufficient for this part. So use something with better heat resistance like petg or abs at least for that part.
