@@ -1,3 +1,6 @@
+!!! As of right now this guide is work in progress and incomplete !!!
+
+
 Alx3dp Greenboy Pellet Printhead V2 Assembly guide
 
 Consult the BOM to see what screws you need for which parts
