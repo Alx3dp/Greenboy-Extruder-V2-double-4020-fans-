@@ -1,0 +1,16 @@
+Alx3dp Greenboy Pellet Printhead V2 Assembly guide
+
+Consult the BOM to see what screws you need for which parts
+
+I also added simple pictures as reference for every given step
+
+Step 1: press the hose connector onto the hose adapter 
+
+Step 2: mount the motor plate onto te motor using 4 m3x6 screws. 
+	At this point you should decide in which direction you want the motor cables to go.
+
+Step 3: push the extruder barrel into the main  body and secure it with the 4 m4 screws.
+	The m4 scres can be 8-12mm in length
+	make sure that the heating block is turned to the back
+
+Step 4: Screw the Hotend cooling duct into the main body with 4 m3x6-10 screws.
