@@ -16,7 +16,7 @@ Mounting plate:		4x m3x5x4 heat set insert	#for all Version, located on the side
 			2x m3x6 to m3x10		#for Ender 3
 			2x m3x5 to m3x12		#for Neptune 3, the original Filament printhead uses 2 m3x8 for this 
 
-hotend cooling duct:	4x m3x6 to m3x10		#to secure the fixture to the main Body
+hotend cooling duct:	2x m3x6 to m3x10		#to secure the fixture to the main Body
 			
 Z probe fixture:	4x m3x16 			#for cartographer probe
 			2x m3x6				#for cartographer probe
