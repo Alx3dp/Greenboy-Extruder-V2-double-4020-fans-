@@ -4,7 +4,7 @@ as well as 12 m3x10 screws.
 So you need to source the rest of the screws yourself
 
 Fans: 			2x m3x18			#for hotend cooling fan
-			2x m3x25			#for part cooling fan
+			2x m3x18-25			#for part cooling fan
 
 Motor mount:		4x m3x5x4 heat set insert	#located on top of the main body
 			4x m3x6				#to secure the motor to the motor plate
@@ -18,7 +18,7 @@ Mounting plate:		4x m3x5x4 heat set insert	#for all Version, located on the side
 
 hotend cooling duct:	4x m3x6 to m3x10		#to secure the fixture to the main Body
 			
-Endstop fixture:	4x m3x16 			#for cartographer probe
+Z probe fixture:	4x m3x16 			#for cartographer probe
 			2x m3x6				#for cartographer probe
 			4x m3x10 to m3x12 		#for no probe
 
