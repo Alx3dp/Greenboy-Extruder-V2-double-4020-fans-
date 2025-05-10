@@ -6,13 +6,22 @@ I also added simple pictures as reference for every given step
 
 some pictures might be outdated but the concepts still apply
 
-Step 0: You need to press 8 m3x5x4 heat set inserts into the main body, 
+Step 0.1: You need to press 8 m3x5x4 heat set inserts into the main body, 
 	4 on top for the motor mount and 
 	2 on each sides in the back for the mounting plate
 	You need to press these in with a soldering iron,
 	I recommend using a bad tip or cleaning it right after of any plastic residue if it comes in contact with the plastic.
 	The heatset inserts should be at least flush height wise and it is no issue if they are pushed in a bit more 
 	I also recommend using tweezers or something similar to hold the insert in place when pulling the soldering iron out.
+
+Step 0.2: you should assemble the hotend first before starting the assembly of the printhead. 
+	-screw the nozzle into the extruder barrel
+	-screw the heating block onto the extruder barrel
+		The heating block should be roughly perpendicular to the screw holes in the barrel
+	-insert the heater and thermistor into the proper holes and secure them with the grub screws 
+	!be careful to not overtighten them!
+	if you need to have the grub screws on the bottom to achieve the correct angle of the heating block and the thermistor is too short to reach the grub screw you can carefully remove a bit of insulation fom the thermistor, jsut be careful to not go past the protective metal sleeve 
+	-the auger does not have to be inserted yet, jsut be sure to insert it before you mount the motor plate
 
 Step 1: press the hose connector onto the hose adapter 
 
@@ -36,7 +45,7 @@ Step 7: Mount the Hotend fan with 2 m3x18 screws to the main body
 
 Step 8: Mount the part cooling fan to the part cooling duct with the 2 printed clips
 
-Step 9: Mount the part cooling duct with the part cooling fan to the part cooling duct fixture using 2 m3x6-10 fans
+Step 9: Mount the part cooling duct with the part cooling fan to the part cooling duct fixture using 2 m3x6-10 screws
 
 Step 10: Secure the part cooling fan to the main body with 2 m3x18-25 screws
 
