@@ -27,6 +27,7 @@ Step 1: press the hose connector onto the hose adapter
 
 Step 2: mount the motor plate onto te motor using 4 m3x6 screws. 
 	At this point you should decide in which direction you want the motor cables to go.
+	I would not recommend having the cables on the seide where the pellet hose connector is, as this makes 
 
 Step 3: push the extruder barrel into the main  body and secure it with the 4 m4 screws.
 	The m4 scres can be 8-12mm in length
@@ -53,6 +54,7 @@ Step 11: Put the coupler on the shaft of the pellet screw.
 	Afterwards mount the motor with the motor plate to the main body with 4 m3x6-10 screws
 
 Step 12: Tighten the screws on the coupler through the hole for the pellet hose to secure the screw to the motor shaft
+	Make sure the pellet screw is seated as far down as possible and not lifted out of the barrel
 
 Step 13: Slide the pellet hose adapter into its slot from the top, afterwards secure it with the top bar
 
