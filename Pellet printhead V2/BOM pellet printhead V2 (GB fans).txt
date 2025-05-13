@@ -7,7 +7,7 @@ Fans: 			2x m3x18			#for hotend cooling fan
 			2x m3x18-25			#for part cooling fan
 
 Motor mount:		4x m3x5x4 heat set insert	#located on top of the main body
-			4x m3x6				#to secure the motor to the motor plate
+			4x m3x8-12				#to secure the motor to the motor plate
 			4x m3x6 to m3x10		#to secure the motor plate to the main body
 
 Mounting plate:		4x m3x5x4 heat set insert	#for all Version, located on the side of the main body
