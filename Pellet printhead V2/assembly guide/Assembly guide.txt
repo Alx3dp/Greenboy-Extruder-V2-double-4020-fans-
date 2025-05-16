@@ -25,7 +25,7 @@ Step 0.2: you should assemble the hotend first before starting the assembly of t
 
 Step 1: press the hose connector onto the hose adapter 
 
-Step 2: mount the motor plate onto te motor using 4 m3x6 screws. 
+Step 2: mount the motor plate onto te motor using 4 m3x6-10 screws. 
 	At this point you should decide in which direction you want the motor cables to go.
 	I would not recommend having the cables on the seide where the pellet hose connector is, as this makes 
 
